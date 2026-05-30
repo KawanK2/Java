@@ -121,7 +121,7 @@ class desenvolvedor extends funcionario{
 	}
 }
 
-public class Main {
+public class Func3 {
 	static ArrayList<funcionario> lista = new ArrayList<>();
 	
 	public static void aplicarAumento(ArrayList<funcionario> lista, String nome, float percentual) {
